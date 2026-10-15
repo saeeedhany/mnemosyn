@@ -149,5 +149,6 @@ brain_tui/          terminal viewer
 tools/build_atlas/  atlas build tool: recipe, hierarchy, validate, fetch, labels, meshing, writer
 atlas_src/          committed atlas sources: recipe, structures, ids.lock, knowledge, LICENSES
 docs/               specs and plans
+site/               project website (static, deployed to GitHub Pages; see site/README.md)
 tests/
 ```
